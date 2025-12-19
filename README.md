@@ -30,13 +30,13 @@ _Get instant Big O notation analysis for your code_
 
 ### Detailed Complexity Explanation
 
-<img src="screenshots/complexity_explanation.png" alt="Complexity Explanation" width="600"/>
+<img src="screenshots/complexity_explanation.png" alt="Complexity Explanation" width="300" height="500"/>
 
 _Understand the reasoning behind complexity calculations_
 
 ### Code Quality Feedback
 
-<img src="screenshots/code_quality_feedback.png" alt="Code Quality Feedback" width="600"/>
+<img src="screenshots/code_quality_feedback.png" alt="Code Quality Feedback"  width="300" height="500"/>
 
 _Receive actionable suggestions to improve your code_
 
