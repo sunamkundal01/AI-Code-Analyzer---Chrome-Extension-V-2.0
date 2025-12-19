@@ -24,7 +24,7 @@ A powerful Chrome extension that helps developers analyze code snippets for time
 
 ### Time/Space Complexity Analysis
 
-<img src="screenshots/complexity_result.png" alt="Complexity Result" width="600" height="500"/>
+<img src="screenshots/complexity_result.png" alt="Complexity Result" width="300" height="500"/>
 
 _Get instant Big O notation analysis for your code_
 
